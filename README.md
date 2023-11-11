@@ -1,4 +1,6 @@
 #### 🇫🇷 Hey, bienvenue sur mon github | 🇬🇧 Welcome to my github
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GregAuRizzz&show_icons=true&theme=radical)
 
 ### A propos | About me :
 🇫🇷 Etudiant en deuxième année de licence informatique à la faculté des sciences Jean Perrin à Lens. Je suis particulièrement à l'aise avec Python, HTML/CSS/JS. En ce moment, je m'investis dans l'apprentissage du langage C, et du LUA. Passionné par la programmation et l'innovation technologique, je partage ici mes projets et contributions 🚀
